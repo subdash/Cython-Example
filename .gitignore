@@ -1,0 +1,4 @@
+__pycache__/
+build/
+*.c
+*.cpython-39-darwin.so
